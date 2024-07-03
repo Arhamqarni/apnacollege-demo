@@ -1,4 +1,4 @@
 # apnacollege-demo
 it is my first repository
 <br>
-Author - Ushna Fatima
+Author - Ushna Fatima(student)
